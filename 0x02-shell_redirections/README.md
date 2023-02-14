@@ -1,1 +1,1 @@
-. -type f -name ".js" -delete
+find .-type d -not -name '.' │ wc -│
