@@ -1,1 +1,1 @@
-find .-type d -not -name '.' │ wc -│
+.-type d -not -name '.' │ wc -│
