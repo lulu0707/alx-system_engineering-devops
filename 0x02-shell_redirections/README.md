@@ -1,1 +1,1 @@
-tail -n 1 iacta >> iacta
+.-type f -name .js -delete
