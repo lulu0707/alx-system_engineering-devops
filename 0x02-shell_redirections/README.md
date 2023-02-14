@@ -1,1 +1,1 @@
-.-type f -name .js -delete
+. -type f -name ".js" -delete
